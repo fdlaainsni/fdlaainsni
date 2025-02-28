@@ -14,4 +14,4 @@
 
 ### 🌐 Connect With Me:
 [![GitHub](https://img.shields.io/badge/GitHub-fdlaainsni-black?style=flat&logo=github)](https://github.com/fdlaainsni)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fadila-insani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fadila-insani-ab3982343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
