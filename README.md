@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hello! I'm a passionate web developer. I enjoy coding and building creative projects.
 🔭 I'm Telecommunication Engineering<br>🌱 I am currently learning programming languages for websites
 
 
